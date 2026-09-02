@@ -59,6 +59,9 @@ try:
 finally:
     df = pd.DataFrame(results)
 
+    print("\nBefore cleaning:")
+    print(df.head())
+
     # Save raw scraped data
     df.to_csv("weather_raw.csv", index=False)
 
@@ -89,6 +92,8 @@ finally:
 
     # Save cleaned data
     clean_df.to_csv("weather_clean.csv", index=False)
+    print("\nAfter cleaning:")
+    print(clean_df.head())
 
     print("Raw rows saved:", len(df))
     print("Clean rows saved:", len(clean_df))
