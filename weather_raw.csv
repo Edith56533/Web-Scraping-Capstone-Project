@@ -1,0 +1,141 @@
+City,Country,Local_Time,Temperature
+Accra,ghana,Thu 5:00 am,77 °F
+Edmonton,canada,Wed 11:00 pm,61 °F
+Nassau,bahamas,Thu 1:00 am,82 °F
+Addis Ababa,ethiopia,Thu 8:00 am,57 °F
+Frankfurt,germany,Thu 7:00 am,64 °F
+New Delhi,india,Thu 10:30 am,86 °F
+Adelaide,australia,Thu 2:30 pm,68 °F
+Guatemala City,guatemala,Wed 11:00 pm,72 °F
+New Orleans,usa,Thu 12:00 midnight,85 °F
+Algiers,algeria,Thu 6:00 am,86 °F
+Halifax,canada,Thu 2:00 am,63 °F
+New York,usa,Thu 1:00 am,73 °F
+Almaty,kazakstan,Thu 10:00 am,77 °F
+Hanoi,vietnam,Thu 12:00 noon,90 °F
+Oslo,norway,Thu 7:00 am,54 °F
+Amman,jordan,Thu 8:00 am,77 °F
+Harare,zimbabwe,Thu 7:00 am,50 °F
+Ottawa,canada,Thu 1:00 am,63 °F
+Amsterdam,netherlands,Thu 7:00 am,61 °F
+Havana,cuba,Thu 1:00 am,75 °F
+Paris,france,Thu 7:00 am,66 °F
+Anadyr,russia,Thu 5:00 pm,49 °F
+Helsinki,finland,Thu 8:00 am,48 °F
+Perth,australia,Thu 1:00 pm,57 °F
+Anchorage,usa,Wed 9:00 pm,61 °F
+Hong Kong,hong-kong,Thu 1:00 pm,86 °F
+Philadelphia,usa,Thu 1:00 am,74 °F
+Ankara,turkey,Thu 8:00 am,64 °F
+Honolulu,usa,Wed 7:00 pm,82 °F
+Phoenix,usa,Wed 10:00 pm,107 °F
+Antananarivo,madagascar,Thu 8:00 am,57 °F
+Houston,usa,Thu 12:00 midnight,84 °F
+Prague,czech-republic,Thu 7:00 am,55 °F
+Asuncion,paraguay,Thu 2:00 am,75 °F
+Indianapolis,usa,Thu 1:00 am,68 °F
+Reykjavik,iceland,Thu 5:00 am,48 °F
+Athens,greece,Thu 8:00 am,80 °F
+Islamabad,pakistan,Thu 10:00 am,84 °F
+Rio de Janeiro,brazil,Thu 2:00 am,72 °F
+Atlanta,usa,Thu 1:00 am,74 °F
+Istanbul,turkey,Thu 8:00 am,75 °F
+Riyadh,saudi-arabia,Thu 8:00 am,90 °F
+Auckland,new-zealand,Thu 5:00 pm,63 °F
+Jakarta,indonesia,Thu 12:00 noon,89 °F
+Rome,italy,Thu 7:00 am,79 °F
+Baghdad,iraq,Thu 8:00 am,86 °F
+Jerusalem,israel,Thu 8:00 am,74 °F
+Salt Lake City,usa,Wed 11:00 pm,83 °F
+Bangkok,thailand,Thu 12:00 noon,90 °F
+Johannesburg,south-africa,Thu 7:00 am,54 °F
+San Francisco,usa,Wed 10:00 pm,64 °F
+Barcelona,spain,Thu 7:00 am,81 °F
+Karachi,pakistan,Thu 10:00 am,84 °F
+San Juan,puerto-rico,Thu 1:00 am,83 °F
+Beijing,china,Thu 1:00 pm,84 °F
+Kathmandu,nepal,Thu 10:45 am,81 °F
+San Salvador,el-salvador,Wed 11:00 pm,79 °F
+Belgrade,serbia,Thu 7:00 am,64 °F
+Kingston,jamaica,Thu 12:00 midnight,85 °F
+Santiago,chile,Thu 1:00 am,50 °F
+Bengaluru,india,Thu 10:30 am,79 °F
+Kinshasa,congo-demrep,Thu 6:00 am,73 °F
+Santo Domingo,dominican-republic,Thu 1:00 am,83 °F
+Berlin,germany,Thu 7:00 am,57 °F
+Kiritimati,kiribati,Thu 7:00 pm,84 °F
+São Paulo,brazil,Thu 2:00 am,66 °F
+Bogota,colombia,Thu 12:00 midnight,57 °F
+Kolkata,india,Thu 10:30 am,91 °F
+Seattle,usa,Wed 10:00 pm,72 °F
+Boston,usa,Thu 1:00 am,70 °F
+Kuala Lumpur,malaysia,Thu 1:00 pm,90 °F
+Seoul,south-korea,Thu 2:00 pm,90 °F
+Brasilia,brazil,Thu 2:00 am,72 °F
+Kuwait City,kuwait,Thu 8:00 am,91 °F
+Shanghai,china,Thu 1:00 pm,90 °F
+Brisbane,australia,Thu 3:00 pm,75 °F
+Kyiv,ukraine,Thu 8:00 am,58 °F
+Singapore,singapore,Thu 1:00 pm,90 °F
+Brussels,belgium,Thu 7:00 am,63 °F
+La Paz,bolivia,Thu 1:00 am,38 °F
+Sofia,bulgaria,Thu 8:00 am,60 °F
+Bucharest,romania,Thu 8:00 am,66 °F
+Lagos,nigeria,Thu 6:00 am,77 °F
+St. John's,canada,Thu 2:30 am,64 °F
+Budapest,hungary,Thu 7:00 am,63 °F
+Lahore,pakistan,Thu 10:00 am,95 °F
+Stockholm,sweden,Thu 7:00 am,48 °F
+Buenos Aires,argentina,Thu 2:00 am,57 °F
+Las Vegas,usa,Wed 10:00 pm,104 °F
+Suva,fiji,Thu 5:00 pm,79 °F
+Cairo,egypt,Thu 8:00 am,79 °F
+Lima,peru,Thu 12:00 midnight,71 °F
+Sydney,australia,Thu 3:00 pm,63 °F
+Calgary,canada,Wed 11:00 pm,75 °F
+Lisbon,portugal,Thu 6:00 am,63 °F
+Taipei,taiwan,Thu 1:00 pm,93 °F
+Canberra,australia,Thu 3:00 pm,61 °F
+London,uk,Thu 6:00 am,68 °F
+Tallinn,estonia,Thu 8:00 am,55 °F
+Cape Town,south-africa,Thu 7:00 am,52 °F
+Los Angeles,usa,Wed 10:00 pm,79 °F
+Tashkent,uzbekistan,Thu 10:00 am,65 °F
+Caracas,venezuela,Thu 1:00 am,81 °F
+Madrid,spain,Thu 7:00 am,63 °F
+Tegucigalpa,honduras,Wed 11:00 pm,75 °F
+Casablanca,morocco,Thu 6:00 am,70 °F
+Managua,nicaragua,Wed 11:00 pm,82 °F
+Tehran,iran,Thu 8:30 am,88 °F
+Chicago,usa,Thu 12:00 midnight,74 °F
+Manila,philippines,Thu 1:00 pm,88 °F
+Tokyo,japan,Thu 2:00 pm,86 °F
+Copenhagen,denmark,Thu 7:00 am,57 °F
+Melbourne,australia,Thu 3:00 pm,61 °F
+Toronto,canada,Thu 1:00 am,68 °F
+Dallas,usa,Thu 12:00 midnight,88 °F
+Mexico City,mexico,Wed 11:00 pm,64 °F
+Vancouver,canada,Wed 10:00 pm,64 °F
+Dar es Salaam,tanzania,Thu 8:00 am,70 °F
+Miami,usa,Thu 1:00 am,84 °F
+Vienna,austria,Thu 7:00 am,61 °F
+Darwin,australia,Thu 2:30 pm,93 °F
+Minneapolis,usa,Thu 12:00 midnight,73 °F
+Warsaw,poland,Thu 7:00 am,55 °F
+Denver,usa,Wed 11:00 pm,63 °F
+Minsk,belarus,Thu 8:00 am,52 °F
+Washington DC,usa,Thu 1:00 am,76 °F
+Detroit,usa,Thu 1:00 am,71 °F
+Montevideo,uruguay,Thu 2:00 am,54 °F
+Winnipeg,canada,Thu 12:00 midnight,64 °F
+Dhaka,bangladesh,Thu 11:00 am,87 °F
+Montréal,canada,Thu 1:00 am,70 °F
+Yangon,myanmar,Thu 11:30 am,79 °F
+Doha,qatar,Thu 8:00 am,95 °F
+Moscow,russia,Thu 8:00 am,53 °F
+Zagreb,croatia,Thu 7:00 am,61 °F
+Dubai,united-arab-emirates,Thu 9:00 am,100 °F
+Mumbai,india,Thu 10:30 am,83 °F
+Zürich,switzerland,Thu 7:00 am,63 °F
+Dublin,ireland,Thu 6:00 am,61 °F
+Nairobi,kenya,Thu 8:00 am,57 °F
